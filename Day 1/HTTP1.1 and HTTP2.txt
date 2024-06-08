@@ -1,0 +1,36 @@
+What is HTTP1: 
+HTTP stands for Hypertext Transfer Protocol. It is a protocol used to access the data on the World Wide Web (www). It can be used to transfer the data in the form of plain text, hypertext, audio, video, and so on. HTTP is similar to the FTP as it also transfers the files from one host to another host. It is used to carry the data in the form of MIME-like format.
+
+What is the usage of HTTP1 and HTTP2:
+HTTP1 sends messages in plain-text format, which is readable by humans but requires more processing time for computers to parse and understand. In contrast, HTTP2 encodes messages in binary format. This allows the messages to be divided into smaller units called frames, which are then sent over the TCP connection.
+
+What is  HTTP2:
+HTTP/2 is the second version of the HTTP protocol aiming to make applications faster, simpler, and more robust by improving many of the drawbacks of the first HTTP version.
+
+Difference between HTTP1.1 vs HTTP2:
+HTTP 1.1 is the version we all know and love. Simple, human-readable, with a lot of hacks bolted on over time. It has a problem in that it only allows one request per TCP connection at a given time. To improve speed, clients can use multiple parallel connections but this uses more server resources and still suffers from TCP slow start.
+
+HTTP 2 addresses some of these issues. It is binary on the wire (so more data can fit in fewer bytes) and it has a mechanism allowing multiple streams per TCP connection, plus a few other features. It is a quite complicated beast, and it addresses some of the shortcomings of http/1, but not TCP slow start.
+
+Advantages of HTTP 2.0 over HTTP 1.1:
+1.Higher loading speed, Improvement of web positioning
+2.Automatic prioritization
+3.Less broadband consumption
+4.Immediate presentation           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

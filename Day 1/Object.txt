@@ -1,0 +1,27 @@
+Blog about objects and its internal representation in Javascript
+
+An object is a collection of key value pairs or collection of properties and it is a data type. where keys are strings (or symbols) and values can be of any data type, including other objects. Objects are used to represent real-world entities, data structures, and more complex data types.Anything and everything in JS is Object storing structured data.
+
+1.	Dot operator and array bracket is used
+
+Eg:
+{
+[key]: value
+}
+
+“key: value” pairs = These keys can be variables or functions and are called properties.
+
+{
+name: “Manisha”,
+Age: 26
+}
+
+data.name  = is used to add a new key value and we can also update a value
+data.age
+data[‘name’]
+data[‘age’]
+delete data.age = delete a key and its corresponding value
+
+Objects in JS is most important data-type.These objects are quite different from JavaScript’s primitive data-types(Number, String, Boolean, null, undefined and symbol) in the sense that while these primitive data-types all store a single value each (depending on their types).
+
+
