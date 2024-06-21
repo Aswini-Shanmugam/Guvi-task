@@ -1,0 +1,45 @@
+{
+    "Information": {
+      "name": "Aswini.S",
+      "email": "aswini@gmail.com",
+      "degree": "B.Tech",
+      "summary": "To establish my self in a challenging environment, to show my skills and to grow in a Corporate.",
+      "location": {
+        "address": "2A- Gandihi street, Gandhi Thirunalur, Metupalayam",
+        "postalCode": "605011",
+        "city": "Puducherry",
+      },
+    },
+    "work": [
+      {
+        "company": "Datamatic",
+        "position": "Quality Analays",
+        "summary": "3 years 7 month worked in Integra software company as a Qality controller and in Datamatic working from the year of novenmer 2021",
+       
+      }
+    ],
+
+    "education": [
+      {
+        "institution": "Christ college of Engineering and Technology",
+        "year": "2012-2016",
+        "gpa": "8.2",
+        "courses": "ECE" ,
+          
+      }
+    ],
+    
+   
+    "skills": [
+      {
+        "name": "Java, c program, AWS architech ",
+        "keywords": "Full stack development",
+      }
+    ],
+    "languages": [
+      {
+        "language": "Tamil, English",
+        "fluency": "Your language fluency"
+      }
+    ],
+  }
